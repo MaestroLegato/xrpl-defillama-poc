@@ -1,0 +1,16 @@
+{
+	"name": "defillamapoc",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node src/index.js",
+		"start:verbose": "node src/index_verbose.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"bignumber.js": "^9.1.2",
+		"ripple-binary-codec": "^2.1.0"
+	}
+}
